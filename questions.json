@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "q101",
+    "subject": "Mathematics",
+    "topic": "Basic Multiplication",
+    "difficulty": "Easy",
+    "question": "What is 7 multiplied by 8?",
+    "option_a": "54",
+    "option_b": "56",
+    "option_c": "62",
+    "option_d": "48",
+    "correct_option": "option_b"
+  },
+  {
+    "question_id": "q102",
+    "subject": "General Science",
+    "topic": "Solar System",
+    "difficulty": "Easy",
+    "question": "Which planet is known as the Red Planet?",
+    "option_a": "Venus",
+    "option_b": "Jupiter",
+    "option_c": "Mars",
+    "option_d": "Saturn",
+    "correct_option": "option_c"
+  }
+]
