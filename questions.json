@@ -16,247 +16,247 @@
     "id": "002",
     "topic": "Smart Education Basics",
     "difficulty": "Easy",
-    "question": "What is a major goal of smart education?",
+    "question": "Which tool is commonly used in digital learning?",
     "options": [
-      "Personalized learning",
-      "More homework",
-      "Longer classes",
-      "Fewer learning resources"
+      "LMS (Learning Management System)",
+      "Blackboard eraser",
+      "Chalk box",
+      "Paper register"
     ],
-    "correct_answer": "Personalized learning"
+    "correct_answer": "LMS (Learning Management System)"
   },
   {
     "id": "003",
-    "topic": "Educational Technology",
-    "difficulty": "Easy",
-    "question": "Which technology can help deliver online lessons?",
+    "topic": "Smart Education Basics",
+    "difficulty": "Medium",
+    "question": "What is the main benefit of personalized learning?",
     "options": [
-      "Internet",
-      "Printer",
-      "Calculator",
-      "Keyboard"
+      "Adapts to individual student pace",
+      "Same speed for everyone",
+      "Removes teachers completely",
+      "Increases test duration"
     ],
-    "correct_answer": "Internet"
+    "correct_answer": "Adapts to individual student pace"
   },
   {
     "id": "004",
-    "topic": "Personalized Learning",
-    "difficulty": "Easy",
-    "question": "What does personalized learning mean?",
+    "topic": "Smart Education Basics",
+    "difficulty": "Medium",
+    "question": "What does AI in education primarily help with?",
     "options": [
-      "Learning adapted to student needs",
-      "Same lesson for everyone",
-      "Studying without teachers",
-      "Only learning from books"
+      "Automating feedback and recommendations",
+      "Printing hardcopy textbooks",
+      "Cleaning classroom desks",
+      "Replacing internet routers"
     ],
-    "correct_answer": "Learning adapted to student needs"
+    "correct_answer": "Automating feedback and recommendations"
   },
   {
     "id": "005",
-    "topic": "Adaptive Learning",
-    "difficulty": "Medium",
-    "question": "What can an adaptive learning system do?",
+    "topic": "Smart Education Basics",
+    "difficulty": "Hard",
+    "question": "Which technology enables immersive virtual learning environments?",
     "options": [
-      "Adjust learning based on performance",
-      "Remove assessments",
-      "Stop tracking progress",
-      "Give identical content always"
+      "AR/VR (Augmented/Virtual Reality)",
+      "PDF files",
+      "Spreadsheets",
+      "Basic audio players"
     ],
-    "correct_answer": "Adjust learning based on performance"
+    "correct_answer": "AR/VR (Augmented/Virtual Reality)"
   },
   {
     "id": "006",
-    "topic": "Data & Analysis",
-    "difficulty": "Medium",
-    "question": "Why can student performance data be useful?",
+    "topic": "Pedagogy & Design",
+    "difficulty": "Easy",
+    "question": "What is blended learning?",
     "options": [
-      "To identify learning needs",
-      "To remove tests",
-      "To replace all teachers",
-      "To prevent learning"
+      "Combining online and face-to-face instruction",
+      "Only listening to podcasts",
+      "Studying without any books",
+      "Taking exams exclusively on paper"
     ],
-    "correct_answer": "To identify learning needs"
+    "correct_answer": "Combining online and face-to-face instruction"
   },
   {
     "id": "007",
-    "topic": "Smart Classroom",
+    "topic": "Pedagogy & Design",
     "difficulty": "Easy",
-    "question": "Which is commonly associated with a smart classroom?",
+    "question": "What does a formative assessment focus on?",
     "options": [
-      "Digital learning tools",
-      "Only printed notes",
-      "Only chalk",
-      "No technology"
+      "Ongoing feedback during learning",
+      "Final course grades only",
+      "Annual school ranking",
+      "Standardized national tests"
     ],
-    "correct_answer": "Digital learning tools"
+    "correct_answer": "Ongoing feedback during learning"
   },
   {
     "id": "008",
-    "topic": "Learning Analytics",
+    "topic": "Pedagogy & Design",
     "difficulty": "Medium",
-    "question": "What does learning analytics help identify?",
+    "question": "What is the primary goal of gamification in learning?",
     "options": [
-      "Student learning patterns",
-      "Classroom furniture",
-      "School building size",
-      "Bus routes"
+      "Increase engagement using game elements",
+      "Replace curriculum with video games",
+      "Eliminate scoring systems",
+      "Reduce study hours to zero"
     ],
-    "correct_answer": "Student learning patterns"
+    "correct_answer": "Increase engagement using game elements"
   },
   {
     "id": "009",
-    "topic": "Diagnostic Testing",
+    "topic": "Pedagogy & Design",
     "difficulty": "Medium",
-    "question": "What is the purpose of a diagnostic test?",
+    "question": "What is microlearning?",
     "options": [
-      "Identify what a student knows and needs to improve",
-      "Replace teaching",
-      "Give a final grade only",
-      "Enter attendance"
+      "Delivering content in small, focused chunks",
+      "Studying for 12 hours continuously",
+      "Teaching only microscopic science topics",
+      "Reading entire textbooks in one sitting"
     ],
-    "correct_answer": "Identify what a student knows and needs to improve"
+    "correct_answer": "Delivering content in small, focused chunks"
   },
   {
     "id": "010",
-    "topic": "Weak Topic Detection",
-    "difficulty": "Medium",
-    "question": "What does weak-topic detection identify?",
+    "topic": "Pedagogy & Design",
+    "difficulty": "Hard",
+    "question": "In Bloom's Taxonomy, which skill represents the highest cognitive level?",
     "options": [
-      "Topics where performance is below an agreed level",
-      "School holidays",
-      "The student's favorite subject",
-      "Teacher attendance"
+      "Creating",
+      "Remembering",
+      "Understanding",
+      "Applying"
     ],
-    "correct_answer": "Topics where performance is below an agreed level"
+    "correct_answer": "Creating"
   },
   {
     "id": "011",
-    "topic": "Personalized Roadmap",
-    "difficulty": "Medium",
-    "question": "What can a learning roadmap provide?",
+    "topic": "Data & Analytics",
+    "difficulty": "Easy",
+    "question": "What is learning analytics?",
     "options": [
-      "A recommended sequence of learning activities",
-      "A school timetable only",
-      "A bus schedule",
-      "A list of teachers"
+      "Measuring and analyzing student data to improve learning",
+      "Counting total classroom chairs",
+      "Calculating school building maintenance costs",
+      "Tracking teacher payroll"
     ],
-    "correct_answer": "A recommended sequence of learning activities"
+    "correct_answer": "Measuring and analyzing student data to improve learning"
   },
   {
     "id": "012",
-    "topic": "AI in Education",
-    "difficulty": "Medium",
-    "question": "How can AI support smart education?",
+    "topic": "Data & Analytics",
+    "difficulty": "Easy",
+    "question": "Which metric indicates how frequently students access platform materials?",
     "options": [
-      "Provide explanations or recommendations",
-      "Replace every teacher",
-      "Eliminate assessments",
-      "Prevent students from practicing"
+      "Engagement rate",
+      "Screen resolution",
+      "Battery life",
+      "File size"
     ],
-    "correct_answer": "Provide explanations or recommendations"
+    "correct_answer": "Engagement rate"
   },
   {
     "id": "013",
-    "topic": "Targeted Practice",
+    "topic": "Data & Analytics",
     "difficulty": "Medium",
-    "question": "Why are targeted questions useful?",
+    "question": "What is predictive analytics used for in smart education?",
     "options": [
-      "They focus practice on areas needing improvement",
-      "They avoid weak topics",
-      "They make every question identical",
-      "They stop assessment"
+      "Identifying at-risk students early",
+      "Predicting daily weather conditions",
+      "Automating hardware repairs",
+      "Designing school uniforms"
     ],
-    "correct_answer": "They focus practice on areas needing improvement"
+    "correct_answer": "Identifying at-risk students early"
   },
   {
     "id": "014",
-    "topic": "Re-testing",
-    "difficulty": "Easy",
-    "question": "Why can a student take a re-test?",
+    "topic": "Data & Analytics",
+    "difficulty": "Medium",
+    "question": "Why is data privacy critical in educational software?",
     "options": [
-      "To check improvement",
-      "To avoid learning",
-      "To change the subject",
-      "To remove previous results"
+      "Protects sensitive student information",
+      "Makes app downloads faster",
+      "Increases storage space on servers",
+      "Improves monitor brightness"
     ],
-    "correct_answer": "To check improvement"
+    "correct_answer": "Protects sensitive student information"
   },
   {
     "id": "015",
-    "topic": "Progress Tracking",
-    "difficulty": "Easy",
-    "question": "What does progress tracking record?",
+    "topic": "Data & Analytics",
+    "difficulty": "Hard",
+    "question": "What type of data reflects real-time student interaction during a test?",
     "options": [
-      "Learning results over time",
-      "School holidays",
-      "Only classroom furniture",
-      "Internet speed"
+      "Telemetry / Event data",
+      "Historical census data",
+      "Annual budget reports",
+      "Static demographic data"
     ],
-    "correct_answer": "Learning results over time"
+    "correct_answer": "Telemetry / Event data"
   },
   {
     "id": "016",
-    "topic": "Smart Education Systems",
-    "difficulty": "Hard",
-    "question": "Which sequence best represents an adaptive learning cycle?",
+    "topic": "EdTech Infrastructure",
+    "difficulty": "Easy",
+    "question": "What does SaaS stand for in cloud technology?",
     "options": [
-      "Diagnostic → Analysis → Weak Topics → Personalized Learning → Practice → Re-test",
-      "Practice → School → Exam → Stop",
-      "Exam → Holiday → Practice",
-      "Roadmap → Ignore results → Stop"
+      "Software as a Service",
+      "System as a Storage",
+      "School as a Society",
+      "Standard and Automated Software"
     ],
-    "correct_answer": "Diagnostic → Analysis → Weak Topics → Personalized Learning → Practice → Re-test"
+    "correct_answer": "Software as a Service"
   },
   {
     "id": "017",
-    "topic": "Data Quality",
-    "difficulty": "Hard",
-    "question": "Why should question-bank fields remain consistent?",
+    "topic": "EdTech Infrastructure",
+    "difficulty": "Easy",
+    "question": "Which protocol secures online data transmission?",
     "options": [
-      "So the application can correctly use the data",
-      "To make questions longer",
-      "To remove testing",
-      "To avoid storing answers"
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "SMTP"
     ],
-    "correct_answer": "So the application can correctly use the data"
+    "correct_answer": "HTTPS"
   },
   {
     "id": "018",
-    "topic": "Educational Recommendations",
-    "difficulty": "Hard",
-    "question": "What should a smart learning recommendation be based on?",
+    "topic": "EdTech Infrastructure",
+    "difficulty": "Medium",
+    "question": "What is the primary role of an API in app development?",
     "options": [
-      "Student performance and identified learning needs",
-      "Random selection only",
-      "Student name only",
-      "Classroom size"
+      "Allows different software systems to communicate",
+      "Stores database backup tapes",
+      "Renders screen display pixels",
+      "Manages physical power cables"
     ],
-    "correct_answer": "Student performance and identified learning needs"
+    "correct_answer": "Allows different software systems to communicate"
   },
   {
     "id": "019",
-    "topic": "Testing",
-    "difficulty": "Hard",
-    "question": "How can weakness detection be tested?",
+    "topic": "EdTech Infrastructure",
+    "difficulty": "Medium",
+    "question": "What does responsiveness mean in web design?",
     "options": [
-      "Use mock students with known answer patterns",
-      "Change questions randomly",
-      "Skip testing",
-      "Test only one answer"
+      "Adapting layout smoothly across different screen sizes",
+      "Answering user emails automatically",
+      "Increasing internet bandwidth speed",
+      "Playing videos at higher framerates"
     ],
-    "correct_answer": "Use mock students with known answer patterns"
+    "correct_answer": "Adapting layout smoothly across different screen sizes"
   },
   {
     "id": "020",
-    "topic": "Smart Education MVP",
+    "topic": "EdTech Infrastructure",
     "difficulty": "Hard",
-    "question": "What is the main purpose of an MVP?",
+    "question": "Which architectural pattern separates data, user interface, and control logic?",
     "options": [
-      "Prove the core idea with the smallest stable version",
-      "Build every possible feature",
-      "Avoid testing",
-      "Create unfinished features"
+      "MVC (Model-View-Controller)",
+      "Monolithic single-file pattern",
+      "Peer-to-Peer file sharing",
+      "Flat file structure"
     ],
-    "correct_answer": "Prove the core idea with the smallest stable version"
+    "correct_answer": "MVC (Model-View-Controller)"
   }
 ]
