@@ -1,38 +1,262 @@
 [
   {
-    "question_id": 1,
-    "subject": "Engineering",
-    "topic": "Calculus",
+    "id": "001",
+    "topic": "Smart Education Basics",
     "difficulty": "Easy",
-    "question": "What is the derivative of x^2?",
-    "option_a": "x",
-    "option_b": "2x",
-    "option_c": "x^2",
-    "option_d": "2",
-    "correct_option": "B"
+    "question": "What is smart education?",
+    "options": [
+      "Learning using technology and data",
+      "Only classroom teaching",
+      "Only textbook reading",
+      "Only examinations"
+    ],
+    "correct_answer": "Learning using technology and data"
   },
   {
-    "question_id": 2,
-    "subject": "Engineering",
-    "topic": "Calculus",
+    "id": "002",
+    "topic": "Smart Education Basics",
+    "difficulty": "Easy",
+    "question": "What is a major goal of smart education?",
+    "options": [
+      "Personalized learning",
+      "More homework",
+      "Longer classes",
+      "Fewer learning resources"
+    ],
+    "correct_answer": "Personalized learning"
+  },
+  {
+    "id": "003",
+    "topic": "Educational Technology",
+    "difficulty": "Easy",
+    "question": "Which technology can help deliver online lessons?",
+    "options": [
+      "Internet",
+      "Printer",
+      "Calculator",
+      "Keyboard"
+    ],
+    "correct_answer": "Internet"
+  },
+  {
+    "id": "004",
+    "topic": "Personalized Learning",
+    "difficulty": "Easy",
+    "question": "What does personalized learning mean?",
+    "options": [
+      "Learning adapted to student needs",
+      "Same lesson for everyone",
+      "Studying without teachers",
+      "Only learning from books"
+    ],
+    "correct_answer": "Learning adapted to student needs"
+  },
+  {
+    "id": "005",
+    "topic": "Adaptive Learning",
     "difficulty": "Medium",
-    "question": "What is the integral of 1/x dx?",
-    "option_a": "ln|x|",
-    "option_b": "e^x",
-    "option_c": "x^2 / 2",
-    "option_d": "1/x^2",
-    "correct_option": "A"
+    "question": "What can an adaptive learning system do?",
+    "options": [
+      "Adjust learning based on performance",
+      "Remove assessments",
+      "Stop tracking progress",
+      "Give identical content always"
+    ],
+    "correct_answer": "Adjust learning based on performance"
   },
   {
-    "question_id": 3,
-    "subject": "Engineering",
-    "topic": "Physics",
+    "id": "006",
+    "topic": "Data & Analysis",
+    "difficulty": "Medium",
+    "question": "Why can student performance data be useful?",
+    "options": [
+      "To identify learning needs",
+      "To remove tests",
+      "To replace all teachers",
+      "To prevent learning"
+    ],
+    "correct_answer": "To identify learning needs"
+  },
+  {
+    "id": "007",
+    "topic": "Smart Classroom",
     "difficulty": "Easy",
-    "question": "What is the SI unit of force?",
-    "option_a": "Joule",
-    "option_b": "Watt",
-    "option_c": "Newton",
-    "option_d": "Pascal",
-    "correct_option": "C"
+    "question": "Which is commonly associated with a smart classroom?",
+    "options": [
+      "Digital learning tools",
+      "Only printed notes",
+      "Only chalk",
+      "No technology"
+    ],
+    "correct_answer": "Digital learning tools"
+  },
+  {
+    "id": "008",
+    "topic": "Learning Analytics",
+    "difficulty": "Medium",
+    "question": "What does learning analytics help identify?",
+    "options": [
+      "Student learning patterns",
+      "Classroom furniture",
+      "School building size",
+      "Bus routes"
+    ],
+    "correct_answer": "Student learning patterns"
+  },
+  {
+    "id": "009",
+    "topic": "Diagnostic Testing",
+    "difficulty": "Medium",
+    "question": "What is the purpose of a diagnostic test?",
+    "options": [
+      "Identify what a student knows and needs to improve",
+      "Replace teaching",
+      "Give a final grade only",
+      "Enter attendance"
+    ],
+    "correct_answer": "Identify what a student knows and needs to improve"
+  },
+  {
+    "id": "010",
+    "topic": "Weak Topic Detection",
+    "difficulty": "Medium",
+    "question": "What does weak-topic detection identify?",
+    "options": [
+      "Topics where performance is below an agreed level",
+      "School holidays",
+      "The student's favorite subject",
+      "Teacher attendance"
+    ],
+    "correct_answer": "Topics where performance is below an agreed level"
+  },
+  {
+    "id": "011",
+    "topic": "Personalized Roadmap",
+    "difficulty": "Medium",
+    "question": "What can a learning roadmap provide?",
+    "options": [
+      "A recommended sequence of learning activities",
+      "A school timetable only",
+      "A bus schedule",
+      "A list of teachers"
+    ],
+    "correct_answer": "A recommended sequence of learning activities"
+  },
+  {
+    "id": "012",
+    "topic": "AI in Education",
+    "difficulty": "Medium",
+    "question": "How can AI support smart education?",
+    "options": [
+      "Provide explanations or recommendations",
+      "Replace every teacher",
+      "Eliminate assessments",
+      "Prevent students from practicing"
+    ],
+    "correct_answer": "Provide explanations or recommendations"
+  },
+  {
+    "id": "013",
+    "topic": "Targeted Practice",
+    "difficulty": "Medium",
+    "question": "Why are targeted questions useful?",
+    "options": [
+      "They focus practice on areas needing improvement",
+      "They avoid weak topics",
+      "They make every question identical",
+      "They stop assessment"
+    ],
+    "correct_answer": "They focus practice on areas needing improvement"
+  },
+  {
+    "id": "014",
+    "topic": "Re-testing",
+    "difficulty": "Easy",
+    "question": "Why can a student take a re-test?",
+    "options": [
+      "To check improvement",
+      "To avoid learning",
+      "To change the subject",
+      "To remove previous results"
+    ],
+    "correct_answer": "To check improvement"
+  },
+  {
+    "id": "015",
+    "topic": "Progress Tracking",
+    "difficulty": "Easy",
+    "question": "What does progress tracking record?",
+    "options": [
+      "Learning results over time",
+      "School holidays",
+      "Only classroom furniture",
+      "Internet speed"
+    ],
+    "correct_answer": "Learning results over time"
+  },
+  {
+    "id": "016",
+    "topic": "Smart Education Systems",
+    "difficulty": "Hard",
+    "question": "Which sequence best represents an adaptive learning cycle?",
+    "options": [
+      "Diagnostic → Analysis → Weak Topics → Personalized Learning → Practice → Re-test",
+      "Practice → School → Exam → Stop",
+      "Exam → Holiday → Practice",
+      "Roadmap → Ignore results → Stop"
+    ],
+    "correct_answer": "Diagnostic → Analysis → Weak Topics → Personalized Learning → Practice → Re-test"
+  },
+  {
+    "id": "017",
+    "topic": "Data Quality",
+    "difficulty": "Hard",
+    "question": "Why should question-bank fields remain consistent?",
+    "options": [
+      "So the application can correctly use the data",
+      "To make questions longer",
+      "To remove testing",
+      "To avoid storing answers"
+    ],
+    "correct_answer": "So the application can correctly use the data"
+  },
+  {
+    "id": "018",
+    "topic": "Educational Recommendations",
+    "difficulty": "Hard",
+    "question": "What should a smart learning recommendation be based on?",
+    "options": [
+      "Student performance and identified learning needs",
+      "Random selection only",
+      "Student name only",
+      "Classroom size"
+    ],
+    "correct_answer": "Student performance and identified learning needs"
+  },
+  {
+    "id": "019",
+    "topic": "Testing",
+    "difficulty": "Hard",
+    "question": "How can weakness detection be tested?",
+    "options": [
+      "Use mock students with known answer patterns",
+      "Change questions randomly",
+      "Skip testing",
+      "Test only one answer"
+    ],
+    "correct_answer": "Use mock students with known answer patterns"
+  },
+  {
+    "id": "020",
+    "topic": "Smart Education MVP",
+    "difficulty": "Hard",
+    "question": "What is the main purpose of an MVP?",
+    "options": [
+      "Prove the core idea with the smallest stable version",
+      "Build every possible feature",
+      "Avoid testing",
+      "Create unfinished features"
+    ],
+    "correct_answer": "Prove the core idea with the smallest stable version"
   }
 ]
