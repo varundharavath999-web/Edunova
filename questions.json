@@ -1,6 +1,6 @@
 [
   {
-    "id": "001",
+    "question_id": "001",
     "topic": "Smart Education Basics",
     "difficulty": "Easy",
     "question": "What is smart education?",
@@ -13,7 +13,7 @@
     "correct_answer": "Learning using technology and data"
   },
   {
-    "id": "002",
+    "question_id": "002",
     "topic": "Smart Education Basics",
     "difficulty": "Easy",
     "question": "Which tool is commonly used in digital learning?",
@@ -26,7 +26,7 @@
     "correct_answer": "LMS (Learning Management System)"
   },
   {
-    "id": "003",
+    "question_id": "003",
     "topic": "Smart Education Basics",
     "difficulty": "Medium",
     "question": "What is the main benefit of personalized learning?",
@@ -39,7 +39,7 @@
     "correct_answer": "Adapts to individual student pace"
   },
   {
-    "id": "004",
+    "question_id": "004",
     "topic": "Smart Education Basics",
     "difficulty": "Medium",
     "question": "What does AI in education primarily help with?",
@@ -52,7 +52,7 @@
     "correct_answer": "Automating feedback and recommendations"
   },
   {
-    "id": "005",
+    "question_id": "005",
     "topic": "Smart Education Basics",
     "difficulty": "Hard",
     "question": "Which technology enables immersive virtual learning environments?",
@@ -65,7 +65,7 @@
     "correct_answer": "AR/VR (Augmented/Virtual Reality)"
   },
   {
-    "id": "006",
+    "question_id": "006",
     "topic": "Pedagogy & Design",
     "difficulty": "Easy",
     "question": "What is blended learning?",
@@ -78,7 +78,7 @@
     "correct_answer": "Combining online and face-to-face instruction"
   },
   {
-    "id": "007",
+    "question_id": "007",
     "topic": "Pedagogy & Design",
     "difficulty": "Easy",
     "question": "What does a formative assessment focus on?",
@@ -91,7 +91,7 @@
     "correct_answer": "Ongoing feedback during learning"
   },
   {
-    "id": "008",
+    "question_id": "008",
     "topic": "Pedagogy & Design",
     "difficulty": "Medium",
     "question": "What is the primary goal of gamification in learning?",
@@ -104,7 +104,7 @@
     "correct_answer": "Increase engagement using game elements"
   },
   {
-    "id": "009",
+    "question_id": "009",
     "topic": "Pedagogy & Design",
     "difficulty": "Medium",
     "question": "What is microlearning?",
@@ -117,7 +117,7 @@
     "correct_answer": "Delivering content in small, focused chunks"
   },
   {
-    "id": "010",
+    "question_id": "010",
     "topic": "Pedagogy & Design",
     "difficulty": "Hard",
     "question": "In Bloom's Taxonomy, which skill represents the highest cognitive level?",
@@ -130,7 +130,7 @@
     "correct_answer": "Creating"
   },
   {
-    "id": "011",
+    "question_id": "011",
     "topic": "Data & Analytics",
     "difficulty": "Easy",
     "question": "What is learning analytics?",
@@ -143,7 +143,7 @@
     "correct_answer": "Measuring and analyzing student data to improve learning"
   },
   {
-    "id": "012",
+    "question_id": "012",
     "topic": "Data & Analytics",
     "difficulty": "Easy",
     "question": "Which metric indicates how frequently students access platform materials?",
@@ -156,7 +156,7 @@
     "correct_answer": "Engagement rate"
   },
   {
-    "id": "013",
+    "question_id": "013",
     "topic": "Data & Analytics",
     "difficulty": "Medium",
     "question": "What is predictive analytics used for in smart education?",
@@ -169,7 +169,7 @@
     "correct_answer": "Identifying at-risk students early"
   },
   {
-    "id": "014",
+    "question_id": "014",
     "topic": "Data & Analytics",
     "difficulty": "Medium",
     "question": "Why is data privacy critical in educational software?",
@@ -182,7 +182,7 @@
     "correct_answer": "Protects sensitive student information"
   },
   {
-    "id": "015",
+    "question_id": "015",
     "topic": "Data & Analytics",
     "difficulty": "Hard",
     "question": "What type of data reflects real-time student interaction during a test?",
@@ -195,7 +195,7 @@
     "correct_answer": "Telemetry / Event data"
   },
   {
-    "id": "016",
+    "question_id": "016",
     "topic": "EdTech Infrastructure",
     "difficulty": "Easy",
     "question": "What does SaaS stand for in cloud technology?",
@@ -208,7 +208,7 @@
     "correct_answer": "Software as a Service"
   },
   {
-    "id": "017",
+    "question_id": "017",
     "topic": "EdTech Infrastructure",
     "difficulty": "Easy",
     "question": "Which protocol secures online data transmission?",
@@ -221,7 +221,7 @@
     "correct_answer": "HTTPS"
   },
   {
-    "id": "018",
+    "question_id": "018",
     "topic": "EdTech Infrastructure",
     "difficulty": "Medium",
     "question": "What is the primary role of an API in app development?",
@@ -234,7 +234,7 @@
     "correct_answer": "Allows different software systems to communicate"
   },
   {
-    "id": "019",
+    "question_id": "019",
     "topic": "EdTech Infrastructure",
     "difficulty": "Medium",
     "question": "What does responsiveness mean in web design?",
@@ -247,7 +247,7 @@
     "correct_answer": "Adapting layout smoothly across different screen sizes"
   },
   {
-    "id": "020",
+    "question_id": "020",
     "topic": "EdTech Infrastructure",
     "difficulty": "Hard",
     "question": "Which architectural pattern separates data, user interface, and control logic?",
